@@ -1,1 +1,1 @@
-# Introduction to SQL- A Kaggle's Course by Rachael Tatman [https://www.kaggle.com/rtatman] 
+# Introduction to SQL- A Kaggle's Course by [Rachael Tatman] (https://www.kaggle.com/rtatman) 
